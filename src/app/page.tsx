@@ -305,7 +305,6 @@ function HomeClient() {
           )}
         </div>
       </div>
-      <div class="mb-8 flex justify-center" style="color: gray;">{announcement}</div>
       {announcement && showAnnouncement && (
         <div
           className={`fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm dark:bg-black/70 p-4 transition-opacity duration-300 ${
