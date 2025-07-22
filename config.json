@@ -80,11 +80,12 @@
     "suoni": {
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "name": "索尼资源",
-      "detail": "https://suoniapi.com"
+      "detail": "https://suonizy.net/"
     },
     "liangzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "name": "量子资源"
+      "name": "量子资源",
+      "detail": "https://lzizy.net/"
     }
   }
 }
