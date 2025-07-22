@@ -301,6 +301,7 @@ function HomeClient() {
                       ))}
                 </ScrollableRow>
               </section>
+                  <div class="mb-8 flex justify-center" style="color: gray;">本网站仅提供影视信息搜索服务，所有内容均来自第三方网站。<br />本站不存储任何视频资源，不对任何内容的准确性、合法性、完整性负责。<br />请勿相信视频中带有的广告内容，如因此产生的一切损失，本站概不负责。</div>
             </>
           )}
         </div>
