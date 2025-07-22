@@ -76,6 +76,11 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "suoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "name": "索尼资源"，
+      "detail": "https://suoniapi.com"
     }
   }
 }
